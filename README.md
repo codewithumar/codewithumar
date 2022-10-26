@@ -8,6 +8,8 @@
 - 📫 How to reach me ...
 <br>
 <a href="https://www.facebook.com/theumrr"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href="https://github.com/codewithumar"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+<a href="https://www.linkedin.com/in/theumrr"><img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/></a>
 
 
 Programming languages-->
