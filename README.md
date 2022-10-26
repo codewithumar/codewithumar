@@ -1,10 +1,21 @@
 ![Black Yellow Modern Programmer Online Portfolio](https://user-images.githubusercontent.com/70685682/195978593-90c56bb7-537f-43a0-954f-89817fed59e7.png)
 
-- 👋 Hi, I’m @codewithumar
-- 👀 I’m interested in Android Development...
+- 👋 Hi, I’m Umar Farooq
+-Technically advanced, solution-oriented, and analytic with a solid academic background and hands-on expertise Android application development, Android application frameworks, and Android SDK, I am an Android Application Developer. Able to quickly collect and translate complicated requirements into workable solutions. Developed a thorough understanding of object-oriented design patterns and architecture, the software development life cycle, and programming approaches.
+
 - 🌱 I’m currently learning Software Engineering ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android development, Android SDK,Flutter development.
 - 📫 How to reach me ...
+Facebook !www.facebook.com/theumrr
+
+Programming languages-->
+  -Kotlin
+  -Java
+  -C#
+  -C++
+  -Python
+  -Html/CSS
+  -Dart
 
 <!---
 codewithumar/codewithumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
