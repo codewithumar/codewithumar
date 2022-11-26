@@ -45,8 +45,8 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 👉 Leading [Flutter Islamabad][flutter_isb]
+- 🙋‍♂️ Former Google DSC Lead [UMT LAHORE][dsccui]
+- 👉 Leading [Flutter Lead UMT][flutter_umt]
 - 💻 The tech I'm interested Flutter/ML/AR etc.
 - ✍ Technical writer at [Medium][medium]
 - 📱 First Live app on Play Store [Holy Qur'an App][quran]
@@ -92,7 +92,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Umar's github stats](https://github-readme-stats.vercel.app/api?username=codewithumar&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+[![Umar's github stats](https://github-readme-stats.vercel.app/api?username=codewithumar&theme=gotham)](https://github.com/codewithumar/github-readme-stats)
 
 
 
@@ -103,8 +103,8 @@ Open Source Contributor from <b>Pakistan<b> 💚
 
 
 [quran]: https://github.com/mhmzdev/The_Holy_Quran_App
-[dsccui]: https://dsc.community.dev/comsats-university-islamabad/
-[flutter_isb]: http://facebook.com/FlutterIslamabadPakistan
+[dsccui]: https://gdsc.community.dev/university-of-management-and-technology-umt-lahore/
+[flutter_umt]: https://gdsc.community.dev/university-of-management-and-technology-umt-lahore/
 [profile]: https://codewithumar.github.io/
 [medium]: https://mhmzdev.medium.com/
 [dribbble]: https://dribbble.com/mhmzdev
