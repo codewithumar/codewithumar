@@ -92,7 +92,11 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
+# 📊GitHub Stats :
 [![Umar's github stats](https://github-readme-stats.vercel.app/api?username=codewithumar&theme=gotham)](https://github.com/codewithumar/github-readme-stats)
+![Amaan Majeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaanmajeed&theme=midnight-purple&hide_border=tru&hide=contribs,issues)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amaanmajeed&theme=midnight-purple&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amaanmajeed&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 
