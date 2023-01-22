@@ -49,11 +49,10 @@
 - 👉 Leading [Flutter Lead UMT][flutter_umt]
 - 💻 The tech I'm interested Flutter/ML/AR etc.
 - ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 📄 Live [Portfolio][profile]
-- 🎨 [Dribbble][dribbble] profile
+
 
 
 
