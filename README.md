@@ -48,7 +48,6 @@
 - 🙋‍♂️ Former Google DSC Lead [UMT LAHORE][dsccui]
 - 👉 Leading [Flutter Lead UMT][flutter_umt]
 - 💻 The tech I'm interested Flutter/ML/AR etc.
-- ✍ Technical writer at [Medium][medium]
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
 - 🎮 COD Modern Warfare 1 Multiplayer
 - 📄 Live [Portfolio][profile]
